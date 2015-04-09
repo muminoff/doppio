@@ -1,7 +1,7 @@
 {
-  "name": "snapredis",
+  "name": "doppio",
   "version": "1.0.0",
-  "description": "SnapDate implementation on Redis",
+  "description": "In-memory video storage implementation with Redis",
   "main": "server.js",
   "dependencies": {
     "faker": "^2.1.2",

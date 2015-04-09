@@ -1,6 +1,6 @@
 # doppio
 In-memory video storage implementation with Redis
 
-## Architecture
+## Data structure
 ![Diagram](https://raw.githubusercontent.com/muminoff/doppio/develop/diagram.png)
 

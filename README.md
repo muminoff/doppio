@@ -2,5 +2,5 @@
 In-memory video storage implementation with Redis
 
 ## Architecture
-[!Diagram](diagram.png)
+![Diagram](https://raw.githubusercontent.com/muminoff/doppio/develop/diagram.png)
 
